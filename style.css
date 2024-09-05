@@ -69,14 +69,14 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/main-bg.jpg), linear-gradient(#0090aa, #fff);
+    background-image: url(../wbccafe/images/main-bg.jpg), 
     min-height: 100vh;
 }
 #home .page-title {
     text-transform: none;
 }
 #news {
-    background-image: url(../images/cap5.jpeg);
+    background-image: url(../wbccafe/images/cap5.jpeg);
     background-color: #ddd;
     background-blend-mode: soft-light;
     height: 270px;
@@ -273,7 +273,7 @@ aside {
 }
 /*MENU*/
 #menu {
-    background-image: url(../images/pancakes-5989136_1280.jpg);
+    background-image: url(../wbccafe/images/pancakes-5989136_1280.jpg);
     background-color: #ddd;
     background-blend-mode: soft-light;
     min-height: 100vh;
@@ -307,7 +307,7 @@ aside {
 }
 /*CONTACT*/
 #contact {
-    background-image: url(../images/cafe-7588631_1280.jpg);
+    background-image: url(../wbccafe/images/cafe-7588631_1280.jpg);
     background-color: #ddd;
     background-blend-mode: soft-light;
     min-height: 100vh;
